@@ -25,13 +25,13 @@ Users should be able to:
 Desktop view
 ![Screenshot](./Screenshots/Desktop%20view.png)
 
-Mobile view
+Mobile view <br>
 ![Screenshot](./Screenshots/Mobile%20view.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://github.com/SathishKumar-2004/social-links-profile-main.git)
+- Live Site URL: [Add live site URL here](https://sathishkumar-2004.github.io/social-links-profile-main/)
 
 ## My Process
 
