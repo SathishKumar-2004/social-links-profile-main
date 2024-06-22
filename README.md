@@ -61,7 +61,7 @@ In future projects, I plan to focus on:
 ## Author
 
 - Frontend Mentor - [@SathishKumar-2004](https://www.frontendmentor.io/profile/SathishKumar-2004)
-- LinkedIn - [Sathish Kumar](www.linkedin.com/in/sathish-kumar2004)
+- LinkedIn - [Sathish Kumar](https://www.linkedin.com/in/sathish-kumar2004)
 
 ## Acknowledgments
 
