@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100..900&display=swap');
+
+.bg{
+  font-family: "Inter", sans-serif;
+  background-color: hsl(0, 0%, 8%);
+}
+
+#bg-grey{
+ background-color: hsl(0, 0%, 20%);
+ color: white;
+}
+
+#bg-grey:hover{
+  background-color:hsl(75, 94%, 57%);
+  color:black;  
+}
+
+.card-design{
+  --bs-body-bg: hsl(0, 0%, 12%);
+}
+
+.text-color{
+  color:hsl(75, 94%, 57%);
+}
